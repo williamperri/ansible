@@ -1,0 +1,4 @@
+---
+- hosts: dexter
+  roles:
+  - geerlingguy.docker
